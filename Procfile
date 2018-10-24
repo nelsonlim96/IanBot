@@ -1,1 +1,1 @@
-bot: python ianbot.py
+web: python ianbot.py
