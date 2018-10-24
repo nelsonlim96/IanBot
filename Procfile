@@ -1,1 +1,1 @@
-bot: python wallet_tracker_bot.py
+bot: python ianbot.py
